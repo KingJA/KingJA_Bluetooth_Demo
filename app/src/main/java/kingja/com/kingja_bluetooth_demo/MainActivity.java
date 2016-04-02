@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 //    private static final String SPP_UUID = "00001104-0000-1000-8000-00805F9B34FB";//信息同步服务
 //    private static final String SPP_UUID = "00001106-0000-1000-8000-00805F9B34FB";//文件传输服务
 
-    
+
     private android.os.Handler handler = new android.os.Handler() {
         @Override
         public void handleMessage(Message msg) {
